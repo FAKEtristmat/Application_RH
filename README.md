@@ -28,8 +28,7 @@ Bienvenue dans le projet de l'application RH ! Cette application est conçue pou
 Pour exécuter ce projet, vous aurez besoin des bibliothèques suivantes :
 
 
-- **JFreeChart** : Pour les graphiques.
-- (JFreeChart https:)[//www.jfree.org/jfreechart/download.html]
+- [**JFreeChart**](//www.jfree.org/jfreechart/download.html) : Pour les graphiques.
 - **JCalendar** : Pour les sélecteurs de date.
 - **Apache PDFBox** : Pour générer des PDF.
 - **flatlaf** : Design Moderne
