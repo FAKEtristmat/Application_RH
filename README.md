@@ -1,6 +1,6 @@
 # 📋 Application RH
 
-Bienvenue dans le projet de l'application RH ! Cette application est conçue pour gérer les demandes de congé des employés, permettant aux employés de demander des congés et aux managers d'approuver ou de refuser ces demandes.
+Bienvenue dans le projet de l'application RH ! Cette application est conçue pour gérer les demandes de congé des employés, permettant aux employés de demander des congés et aux managers d'approuver ou de refuser ces demandes, elle permet aussi de générer les fiches de paye des employés.
 
 ## 🌟 Fonctionnalités
 
