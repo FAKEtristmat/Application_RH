@@ -13,38 +13,24 @@ Bienvenue dans le projet de l'application RH ! Cette application est conçue pou
 
 ### Interface Employé
 - **Demande de Congé** : Permet aux employés de spécifier les dates de début et de fin de leur congé.
-- **Statut des Demandes** : Affiche le statut des demandes de congé (approuvé, refusé, en attente).
+- **Notification** : Permet de recevoir une notification de l'approbation ou du refus d'une demande de congé.
+- **Calendrier** : Visualiser les jours posés par l'employé.
+
+
 
 ### Interface Manager
 - **Approbation des Congés** : Permet aux managers de voir et d'approuver ou de refuser les demandes de congé.
-- **Gestion des Employés** : Interface pour gérer les informations des employés.
+- **Gestion des Employés** : Interface pour gérer les informations des employés (Nom, Prenom, Poste, Salaire annuel, Identifiant).
+- **Génération de fiche de paie** : Permet de sélectionner un employé pour générer automatiquement sa fiche de paie.
 
 ## 📦 Bibliothèques à Installer
 
 Pour exécuter ce projet, vous aurez besoin des bibliothèques suivantes :
 
+
 - **JFreeChart** : Pour les graphiques.
+- (JFreeChart https:)[//www.jfree.org/jfreechart/download.html]
 - **JCalendar** : Pour les sélecteurs de date.
 - **Apache PDFBox** : Pour générer des PDF.
+- **flatlaf** : Design Moderne
 
-Vous pouvez ajouter ces dépendances à votre projet Maven ou Gradle.
-
-### Maven
-```xml
-<dependencies>
-    <dependency>
-        <groupId>org.jfree</groupId>
-        <artifactId>jfreechart</artifactId>
-        <version>1.5.3</version>
-    </dependency>
-    <dependency>
-        <groupId>com.toedter</groupId>
-        <artifactId>jcalendar</artifactId>
-        <version>1.4</version>
-    </dependency>
-    <dependency>
-        <groupId>org.apache.pdfbox</groupId>
-        <artifactId>pdfbox</artifactId>
-        <version>2.0.24</version>
-    </dependency>
-</dependencies>
