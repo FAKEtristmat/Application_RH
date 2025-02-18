@@ -15,6 +15,7 @@ Bienvenue dans le projet de l'application RH ! Cette application est conçue pou
 - **Demande de Congé** : Permet aux employés de spécifier les dates de début et de fin de leur congé.
 - **Notification** : Permet de recevoir une notification de l'approbation ou du refus d'une demande de congé.
 - **Calendrier** : Visualiser les jours posés par l'employé.
+Jar dans le fichier librairy projet
 
 
 
@@ -31,5 +32,5 @@ Pour exécuter ce projet, vous aurez besoin des bibliothèques suivantes :
 - [**JFreeChart**](//www.jfree.org/jfreechart/download.html) : Pour les graphiques.
 - [**JCalendar**](https://toedter.com/jcalendar/) : Pour les sélecteurs de date.
 - [**Apache PDFBox**](https://pdfbox.apache.org/download.html) : Pour générer des PDF.
-- [**flatlaf**](https://www.formdev.com/flatlaf/) : Design Moderne
+- [**flatlaf**](https://search.maven.org/artifact/com.formdev/flatlaf/3.5.4/jar?eh=) : Design Moderne
 
