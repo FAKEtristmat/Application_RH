@@ -29,7 +29,7 @@ Pour exécuter ce projet, vous aurez besoin des bibliothèques suivantes :
 
 
 - [**JFreeChart**](//www.jfree.org/jfreechart/download.html) : Pour les graphiques.
-- **JCalendar** : Pour les sélecteurs de date.
-- **Apache PDFBox** : Pour générer des PDF.
-- **flatlaf** : Design Moderne
+- [**JCalendar**](https://toedter.com/jcalendar/) : Pour les sélecteurs de date.
+- [**Apache PDFBox**](https://pdfbox.apache.org/download.html) : Pour générer des PDF.
+- [**flatlaf**](https://www.formdev.com/flatlaf/) : Design Moderne
 
