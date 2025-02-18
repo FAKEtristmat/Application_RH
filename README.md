@@ -34,3 +34,6 @@ Pour exécuter ce projet, vous aurez besoin des bibliothèques suivantes :
 - [**Apache PDFBox**](https://pdfbox.apache.org/download.html) : Pour générer des PDF.
 - [**flatlaf**](https://search.maven.org/artifact/com.formdev/flatlaf/3.5.4/jar?eh=) : Design Moderne
 
+## Contributeur
+- Arnaud, Tristan, Yoann
+
