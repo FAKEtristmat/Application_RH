@@ -1,5 +1,7 @@
 # 📋 Application RH
 
+Lien application Java sur drive : https://drive.google.com/drive/folders/1GP2koP8OzHjkBwSMVSG6GMxCUk8qzDuh?usp=drive_link
+
 Bienvenue dans le projet de l'application RH ! Cette application est conçue pour gérer les demandes de congé des employés, permettant aux employés de demander des congés et aux managers d'approuver ou de refuser ces demandes, elle permet aussi de générer les fiches de paye des employés.
 
 ## 🌟 Fonctionnalités
